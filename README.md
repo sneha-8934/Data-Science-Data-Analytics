@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Contains my personal data analytics projects
+Contains my personal data science projects
