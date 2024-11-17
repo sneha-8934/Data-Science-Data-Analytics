@@ -1,2 +1,2 @@
-# Data-Science-Projects
-Contains my personal data science projects
+# Data-Science-# Data-Analysis
+Contains my work towards data science and data analysis
